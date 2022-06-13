@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--ETIQUETA MUSEUM -->
+<listapinturas>
+    <pinturas>
+        <nombre>Sagradafamilia</nombre>
+        <artista nombre="Bartolome" apellido="murillo" nacionalidad="Madrid" />        
+        <release>1887</release>
+     </pinturas>
+        
+    <pinturas>
+        <nombre>LaAnunciacion</nombre>
+        <artista nombre="Fra" apellido="Angelico" nacionalidad="Italia" />        
+        <release>SigloXv</release>  
+    </pinturas>
+    <pinturas>
+        <nombre>El Descendimineto</nombre>
+        <artista nombre="Rogier" apellido="Vander" nacionalidad="Madrid" />        
+        <release>SigloXVII/release>
+       </pinturas>
+</listapinturas>
